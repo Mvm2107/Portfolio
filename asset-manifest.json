@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.db973e80.css",
+    "main.js": "/Portfolio/static/js/main.3ea67852.js",
+    "static/media/burger.jpg": "/Portfolio/static/media/burger.80db61ba0443daa7fb83.jpg",
+    "static/media/netflix.jpg": "/Portfolio/static/media/netflix.64ea66389b1c188416ed.jpg",
+    "static/media/blockchain.jpg": "/Portfolio/static/media/blockchain.a5dce5aec68d220c53de.jpg",
+    "static/media/realestate.jpg": "/Portfolio/static/media/realestate.a511032c56bc86b29221.jpg",
+    "static/media/scorekeeper.png": "/Portfolio/static/media/scorekeeper.91c706d35f8de19df7fc.png",
+    "static/media/Dahboard.png": "/Portfolio/static/media/Dahboard.421701e05c8f029b0416.png",
+    "static/media/dataanalytics.jpg": "/Portfolio/static/media/dataanalytics.5af6911c3de5dc2cef51.jpg",
+    "static/media/css.png": "/Portfolio/static/media/css.209d4149cab29afea3a9.png",
+    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.540368cd923d0bd33158.png",
+    "static/media/react.png": "/Portfolio/static/media/react.839d3c070979d60505ed.png",
+    "static/media/logo1.png": "/Portfolio/static/media/logo1.7ed42caf1761f7568a18.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/tailwind.png": "/Portfolio/static/media/tailwind.e606368f143e8983ebef.png",
+    "static/media/firebase.png": "/Portfolio/static/media/firebase.249c69ebbbc416c38fdf.png",
+    "static/media/html.png": "/Portfolio/static/media/html.59b786b8ebac3cb13975.png",
+    "index.html": "/Portfolio/index.html",
+    "main.db973e80.css.map": "/Portfolio/static/css/main.db973e80.css.map",
+    "main.3ea67852.js.map": "/Portfolio/static/js/main.3ea67852.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db973e80.css",
+    "static/js/main.3ea67852.js"
+  ]
+}
