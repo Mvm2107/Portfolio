@@ -20,10 +20,10 @@ const Work = () => {
             <div style={{backgroundImage:`url(${Blockchain})`}}  className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto container-div content-div'>
                <div className='opacity-0 group-hover:opacity-100'>
                 <span className='text-2xl font-bold teext-white tracking-wider'>
-                      Diabetes Prediction
+                      Crime Activity Analysis
                 </span>
                 <div className='pt-8 text-center'>
-                    <a href="https://github.com/Mvm2107/CVIP-Manivannan-3817/tree/main/Diabetes%20prediction">
+                    <a href="https://public.tableau.com/app/profile/manivannan.m2382/viz/initialintern12325/Dashboard3">
                        <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button> 
                     </a>
                     {/* <a href="">
